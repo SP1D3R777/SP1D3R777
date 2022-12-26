@@ -1,11 +1,10 @@
 <h1 align="center">Salut 👋, Moi c'est SP1D3R</h1>
-<h3 align="center">Passioner de l'informatique</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sp1d3r777&label=Profile%20views&color=0e75b6&style=flat" alt="sp1d3r777" /> </p>
 
-- 🔭 Je travaille actuellement sur le **Windows 11 - FiveM**
+- 🔭 Travail actuellement sur plusieurs PROJET !
 
-- 📫 Contact e-mail **spidernetwork777@gmail.com**
+- 📫 DUMPER FIVEM TOP 1 !
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
