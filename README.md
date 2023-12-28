@@ -3,9 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sp1d3r777&label=Profile%20views&color=0e75b6&style=flat" alt="sp1d3r777" /> </p>
 
 - 🔭 Travail actuellement sur plusieurs PROJET !
-- Développeur WordPress :
-- :man_technologist:• Thème et plugins WordPress
-:jigsaw:• Optimisation de la performance Web
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
